@@ -2,7 +2,7 @@
 layout: slides
 title: VR-Headset
 caption: Διαφάνειες για το κεφάλαιο VR-Headset
-image_url: /images/VR-glasses.png
+image_url: /images/VR-glasses.jpeg
 slides:
   - VR-glasses
   - Digitizer

@@ -1,7 +1,7 @@
 ---
 layout: slides
-title: Virtual Reality
-caption: Διαφάνειες για το κεφάλαιο Virtual Reality
+title: VR-Headset
+caption: Διαφάνειες για το κεφάλαιο VR-Headset
 image_url: /images/VR-glasses.png
 slides:
   - VR-glasses
